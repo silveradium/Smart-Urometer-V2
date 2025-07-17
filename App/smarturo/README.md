@@ -13,8 +13,12 @@ SmartUro is a mobile companion app for our automatic urometer system. It display
 ```bash
    git clone https://github.com/your-username/smarturo-app.git
    cd smarturo-app
-   #Install dependencies
+   ```
+3. Install dependencies
+```bash
     npm install
-    #start the app
+```
+4. Start the app
+```bash
     npx expo start
     ```
