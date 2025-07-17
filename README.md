@@ -3,7 +3,9 @@
 
 SmartUro is a low-cost, non-invasive urine level monitoring system designed for hospitals and long-term care settings. This project introduces a novel approach using capacitive liquid-level sensing—eliminating moving parts and enabling real-time fluid tracking with wireless communication to a hospital app interface.
 
-🚀 We were awarded 1st Runners-up at Brainstorm 2024 (University of Moratuwa)!
+🚀 We were awarded 1st Runners-up at Brainstorm 2025 (University of Moratuwa)!
+![brainstorm 25](./images/winners.jpeg)
+
 
 ## 🔍 Motivation
 In traditional urometers, manual monitoring is inefficient and error-prone, particularly in high-dependency care units. Our goal was to automate this process with a compact, cost-effective device that integrates seamlessly into hospital workflows.
@@ -30,6 +32,16 @@ This choice allowed us to shield the entire inner wall of the urometer enclosure
 
 Extensive experimentation was conducted using a beaker setup to validate the sensing accuracy and stability in real-world fluid scenarios.
 
+<p align="center">
+  <img src="./images/technique.png" alt="Prototype Front" width="45%" style="margin-right: 10px;" />
+  <img src="./images/exp1.png" alt="Prototype Side" width="45%" />
+</p>
+
+
+## 📱 App Interface
+
+A clean, modern Flutter-based mobile app allows nurses to monitor multiple patients in real-time, complete with patient names, timestamps, and sensor values.
+
 ## 🔬 Future plans include:
 
 Exploring the OOP technique for enhanced linearity and accuracy
@@ -37,7 +49,3 @@ Exploring the OOP technique for enhanced linearity and accuracy
 Miniaturizing the hardware
 
 Pursuing intellectual property protection for our sensing architecture
-
-## 📱 App Interface
-
-A clean, modern Flutter-based mobile app allows nurses to monitor multiple patients in real-time, complete with patient names, timestamps, and sensor values.
