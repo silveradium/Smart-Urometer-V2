@@ -6,7 +6,6 @@ SmartUro is a low-cost, non-invasive urine level monitoring system designed for 
 🚀 We were awarded 1st Runners-up at Brainstorm 2025 (University of Moratuwa)!
 <p align="center">
   <img src="./images/winners.jpeg" alt="Prototype Front" width="45%" style="margin-right: 10px;" />
-  <img src="./images/prices.JPG" alt="Prototype Side" width="45%" />
 </p>
 
 
