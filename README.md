@@ -4,7 +4,10 @@
 SmartUro is a low-cost, non-invasive urine level monitoring system designed for hospitals and long-term care settings. This project introduces a novel approach using capacitive liquid-level sensing—eliminating moving parts and enabling real-time fluid tracking with wireless communication to a hospital app interface.
 
 🚀 We were awarded 1st Runners-up at Brainstorm 2025 (University of Moratuwa)!
-![brainstorm 25](./images/winners.jpeg)
+<p align="center">
+  <img src="./images/winners.jpeg" alt="Prototype Front" width="45%" style="margin-right: 10px;" />
+  <img src="./images/prices.JPG" alt="Prototype Side" width="45%" />
+</p>
 
 
 ## 🔍 Motivation
