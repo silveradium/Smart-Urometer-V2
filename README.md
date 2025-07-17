@@ -17,7 +17,7 @@ In traditional urometers, manual monitoring is inefficient and error-prone, part
 
 - ESP32-based wireless data transmission
 
-- Companion app built with Flutter to monitor patient data
+- Companion app built with React Native to monitor patient data
 
 - Data storage and analytics using Firebase
 
