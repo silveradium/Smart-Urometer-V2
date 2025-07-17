@@ -1,7 +1,7 @@
 # SmartUro App
 
 <p align="center">
-  <img src="../../images/app.png" alt="SmartUro App Preview" width="300"/>
+  <img src="../../images/app.png" alt="SmartUro App Preview" width="60%"/>
 </p>
 
 SmartUro is a mobile companion app for our automatic urometer system. It displays real-time urine levels from the device, helps staff monitor patients efficiently, and is designed with simplicity and speed in mind.
